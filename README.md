@@ -1,3 +1,4 @@
+<img width="1892" height="913" alt="Screenshot 2026-06-24 164232" src="https://github.com/user-attachments/assets/282655be-b605-4822-85ac-a18edbc0fc2c" />
 # Campus Crew - React UI Bug Fix Assignment
 
 Campus Crew is a deliberately buggy frontend dashboard for managing final-year student project reviews. Your job is to turn this starter code into a polished, responsive, and reliable React UI.
